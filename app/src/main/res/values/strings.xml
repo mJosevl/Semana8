@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IACC Airlines</string>
+<string name="channel_name">Promociones</string>
+<string name="channel_description">Notificaciones de promociones de vuelos</string>
+</resources>
